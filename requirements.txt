@@ -1,0 +1,8 @@
+# requirements.txt
+
+streamlit==1.39.0                # Core Streamlit framework
+pandas==2.2.3                    # Data handling and cleaning
+folium==0.17.0                   # Interactive maps
+streamlit-folium==0.23.1         # Folium integration with Streamlit
+geopy==2.4.1                     # Geocoding and distance calculations
+geocoder==1.38.1                 # IP and address geocoding
