@@ -1,4 +1,4 @@
-# Post Office Nearby – Find Nearest Delivery Post Office in India
+# Post Office Nearby - Find Nearest Delivery Post Office in India
 
 A simple, powerful, and **mobile-friendly** web app that helps millions of Indians find the **nearest Delivery Post Office** using their current location or pincode. Built with real India Post data (165k+ post offices).
 
